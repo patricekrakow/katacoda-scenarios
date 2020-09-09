@@ -1,0 +1,22 @@
+{
+  "title": "Ubuntu: Hello World!",
+  "description": "Learn how to print \"Hello World!\" form an Ubuntu prompt",
+  "difficulty": "beginner",
+  "time": "2 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1",
+      "text": "step1.md"
+    }],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": true,
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:1804"
+  }
+}
