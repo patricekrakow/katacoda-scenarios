@@ -9,3 +9,5 @@ You can type:
 ## Generated Web Link
 
 https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com
+
+`export INGRESS_DOMAIN=[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com`{{execute}}
